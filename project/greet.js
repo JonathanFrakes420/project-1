@@ -1,4 +1,4 @@
-function cheer(name) {
-	alert(name);
+function cheer() {
+	return JavaScript;
 }
 console.log(cheer('bendeguz'));
