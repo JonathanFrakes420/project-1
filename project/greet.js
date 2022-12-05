@@ -1,4 +1,4 @@
 function cheer() {
 	return JavaScript;
 }
-console.log(cheer('bendeguz'));
+console.log(cheer('valami'));
