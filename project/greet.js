@@ -2,4 +2,4 @@ function cheer() {
 	return JavaScript;
 
 }
-console.log(cheer('xd'));
+console.log(cheer('xdd'));
