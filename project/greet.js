@@ -4,3 +4,4 @@ function cheer() {
 }
 console.log(cheer('kocsi'));
 console.log(cheer('xdd'));
+console.log(cheer('busz'));
