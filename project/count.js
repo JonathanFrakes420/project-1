@@ -1,3 +1,5 @@
-export function count(){
-  return 24;
+export function count(string, number) {
+  return string, number;
 };
+
+count('hello', 69);

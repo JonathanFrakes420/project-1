@@ -1,6 +1,7 @@
-function cheer(name) {
-	alert(name);
-}
+function cheer() {
+	return JavaScript;
+
 cheer("saci");
 
 // lalalala
+
