@@ -1,3 +1,3 @@
-export function count(){
-  return 24;
+export function count() {
+  return 1;
 };

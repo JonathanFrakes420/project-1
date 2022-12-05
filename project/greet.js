@@ -1,4 +1,4 @@
 function cheer(name) {
 	alert(name);
 }
-console.log(cheer("saci"));
+console.log(cheer('bendeguz'));
