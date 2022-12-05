@@ -1,7 +1,9 @@
 function cheer() {
 	return JavaScript;
 
-cheer("saci");
+}
+console.log(cheer('valami'));
 
-// lalalala
+
+
 
