@@ -2,8 +2,4 @@ function cheer() {
 	return JavaScript;
 
 }
-console.log(cheer('valami'));
-
-
-
-
+console.log(cheer('kocsi'));
