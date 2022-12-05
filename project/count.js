@@ -1,3 +1,7 @@
+
+x = 10;
+
 export function count() {
-  return 1;
+  return x;
 };
+
